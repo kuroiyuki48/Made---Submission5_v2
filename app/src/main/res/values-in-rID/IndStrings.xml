@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Katalog Film</string>
+    <string name="detail_overview">Sinopsis</string>
+    <string name="detail_title_status">Status</string>
+    <string name="detail_title_release_date">Tanggal Rilis</string>
+    <string name="detail_title_original_language">Bahasa Asli</string>
+    <string name="detail_title_runtime">Waktu Main</string>
+    <string name="detail_title_homepage">Beranda</string>
+    <string name="action_search">Aksi Pencarian</string>
+    <string name="searchable_search_movie">Mencari Film</string>
+    <string name="close">Tutup</string>
+    <string name="navigation_drawer_open">Buka Laci Navigasi</string>
+    <string name="navigation_drawer_close">Tutup Laci Navigasi</string>
+    <string name="home">Rumah</string>
+    <string name="change_language">Ubah Bahasa</string>
+    <string name="settings">Pengaturan</string>
+    <string name="tab_now_playing">SEKARANG</string>
+    <string name="tab_upcoming">AKAN DATANG</string>
+    <string name="tab_popular">TERKENAL</string>
+    <string name="toast_empty">Kosong</string>
+    <string name="toast_failed">Gagal</string>
+    <string name="toast_not_found">Film Tidak Ditemukan</string>
+    <string name="progress_loading">Memuat</string>
+    <string name="minute">\u0020Menit</string>
+    <string name="no_tagline">Tidak Ada Ucapan Klimaks</string>
+    <string name="no_year">Tidak Ada Tahun</string>
+    <string name="no_date">Tidak Ada Tanggal Rilis</string>
+    <string name="detail_movie_title" translatable="false">Judul Film</string>
+    <string name="detail_movie_description" translatable="false">Deskripsi</string>
+    <string name="rating">Peringkat</string>
+    <string name="favourite">Kesukaan</string>
+    <string name="add_favourite">Tambahkan ke Daftar Kesukaan</string>
+    <string name="remove_favourite">Singkirkan dari Daftar Kesukaan</string>
+    <string name="no_favourite_data">Tidak Ada Data Kesukaan</string>
+    <string name="removed_favourite">satu Data Disingkirkan dari Kesukaan</string>
+    <string name="share">Berbagi</string>
+    <string name="share_using">Berbagi Menggunakan</string>
+    <string name="repeat_notif">Hei Katalog Film Merindukanmu &#8230;</string>
+    <string name="empty_text">Tidak ada Data</string>
+    <string name="setting">Pengaturan</string>
+    <string name="favourite_list">Daftar Kesukaan</string>
+    <string name="release_notification1">Hari Ini</string>
+    <string name="release_notification2">Rilis</string>
+    <string name="preferences_title_1">Ubah Bahasa</string>
+    <string name="preferences_summary_1">Tekan Untuk Mengganti Bahasa</string>
+    <string name="preferences_summary_2">Aktifkan atau Matikan Opsi Ini</string>
+    <string name="preferences_title_2">Pengingat Harian</string>
+    <string name="preferences_title_3">Pengingat Rilis</string>
+    <string name="preferences_summary_3">Memberikan anda pemberitahuan tentang rilis film baru</string>
+    <string name="Language">Bahasa</string>
+    <string name="Notifications">Pemberitahuan</string>
+    <string name="noor_alizah_afifah_r">Noor Alizah Afifah R</string>
+    <string name="movie">Film</string>
+    <string name="tv_show">Acara Tv</string>
+
+    <!--  Maaf kak saya selalu typo favourite sama favorite, soalnya sumber ngoding saya pakenya favourite  -->
+</resources>

@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="detail_overview">Overview</string>
+    <string name="detail_title_status">Status</string>
+    <string name="detail_title_release_date">Release Date</string>
+    <string name="detail_title_original_language">Original Language</string>
+    <string name="detail_title_runtime">Runtime</string>
+    <string name="detail_title_homepage">Homepage</string>
+    <string name="action_search">Action Search</string>
+    <string name="searchable_search_movie">Search Movies</string>
+    <string name="close">Close</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="home">Home</string>
+    <string name="change_language">Change Language</string>
+    <string name="settings">Settings</string>
+    <string name="tab_now_playing">NOW PLAYING</string>
+    <string name="tab_upcoming">UPCOMING</string>
+    <string name="tab_popular">POPULAR</string>
+    <string name="toast_empty">Empty</string>
+    <string name="toast_failed">Failed</string>
+    <string name="toast_not_found">Movie not found</string>
+    <string name="progress_loading">Loading</string>
+    <string name="minute">\u0020mins</string>
+    <string name="no_tagline">There Is No Tagline</string>
+    <string name="no_year">There Is No Year</string>
+    <string name="no_date">There Is No Release Date</string>
+    <string name="detail_movie_title" translatable="false">Movie Title</string>
+    <string name="detail_movie_description" translatable="false">Description</string>
+    <string name="rating">Rating</string>
+    <string name="favourite">Favorite</string>
+    <string name="add_favourite">Added to the favorite list</string>
+    <string name="remove_favourite">Removed from favorite list</string>
+    <string name="no_favourite_data">No Favorite Data</string>
+    <string name="removed_favourite">One item removed from favorite</string>
+    <string name="share">Share</string>
+    <string name="share_using">Share Using</string>
+    <string name="repeat_notif">Hey Movie Catalogue Missing You &#8230;</string>
+    <string name="add_widget" translatable="false">Add widget</string>
+    <string name="appwidget_text" translatable="false">STAR WARS BANNER</string>
+    <string name="empty_text">NO DATA</string>
+    <string name="setting">Settings</string>
+    <string name="favourite_list">Favorite List</string>
+    <string name="title_activity_settings" translatable="false">Settings</string>
+    <string name="key_daily_reminder" translatable="false">key_daily_reminder</string>
+    <string name="key_setting_language" translatable="false">key_setting_language</string>
+    <string name="key_release_reminder" translatable="false">key_release_reminder</string>
+    <string name="release_notification1">Today</string>
+    <string name="release_notification2">release</string>
+    <string name="preferences_title_1">Change Language</string>
+    <string name="preferences_summary_1">Tap to change the language</string>
+    <string name="preferences_summary_2">Turn this option on or off</string>
+    <string name="preferences_title_2">Daily Reminder</string>
+    <string name="preferences_title_3">Release Reminder</string>
+    <string name="preferences_summary_3">Give you a notification of new release movie</string>
+    <string name="Language">Language</string>
+    <string name="Notifications">Notifications</string>
+    <string name="noor_alizah_afifah_r">Noor Alizah Afifah R</string>
+    <string name="movie">Movie</string>
+    <string name="tv_show">Tv Show</string>
+
+    <!--  Maaf kak saya selalu typo favourite sama favorite, soalnya sumber ngoding saya pakenya favourite  -->
+</resources>
